@@ -1,0 +1,29 @@
+{
+  "expo": {
+<<<<<<< HEAD
+    "name": "lab4_TeknikDestekPanelimp",
+    "slug": "lab4_TeknikDestekPanelimp",
+=======
+    "name": "mobilp_lab3",
+    "slug": "mobilp_lab3",
+>>>>>>> 86fc4c81f26b40b278127dc4713dfeeb1e521018
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
